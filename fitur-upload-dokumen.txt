@@ -1,7 +1,8 @@
 UPLOAD DOKUMEN
 
 - user dapat melakukan upload dokumen
-- button submit untuk menyimpan file yang sudah diupload
+- button "Submit" untuk menyimpan hasil upload
+- button "Delete" untuk menghapus file yang sudah diupload
 - format dokumen meliputi: .pdf, .docx, .txt, .xls
 - batas ukuran file yang diupload sebesar 5mb
 - menampilkan alert jika format dokumen yang diupload berhasil
