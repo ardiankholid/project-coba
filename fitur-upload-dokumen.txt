@@ -1,0 +1,8 @@
+UPLOAD DOKUMEN
+
+- user dapat melakukan upload dokumen
+- format dokumen meliputi: .pdf, .docx, .txt, .xls
+- batas ukuran file yang diupload sebesar 5mb
+- menampilkan alert jika format dokumen yang diupload berhasil
+- menampilkan alert "Format dokumen tidak sesuai" jika format dokumen yang diupload tidak sesuai dengan format
+- menampilkan alert "Dokumen yang diupload melebih batas ukuran (5mb)" jika format dokumen yang diupload melebihi batas ukuran dokumen
