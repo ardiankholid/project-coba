@@ -4,3 +4,5 @@ Ini adalah repositori uji coba penggunaan Github
 - Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 - Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 - Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+- Lorem ipsum dolor sit amet. amet sit dolor ipsum lorem.
+- Lorem ipsum dolor sit amet. amet sit dolor ipsum lorem.
