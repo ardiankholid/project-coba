@@ -7,3 +7,4 @@ UPLOAD DOKUMEN
 - menampilkan alert "Format dokumen tidak sesuai" jika format dokumen yang diupload tidak sesuai dengan format
 - menampilkan alert "Dokumen yang diupload melebih batas ukuran (5mb)" jika format dokumen yang diupload melebihi batas ukuran dokumen
 - show dokumen yang telah berhasil di upload
+- menampilkan alert "upload dokumen terlebih dahulu" saat submit namun mengkosongkan form
